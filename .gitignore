@@ -1,0 +1,4 @@
+# Runtime database (SQLite)
+haura.db
+haura.db-wal
+haura.db-shm
